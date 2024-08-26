@@ -1,2 +1,2 @@
 # Sudoku
-Sudoku Game Website
+Sudoku Game
